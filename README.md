@@ -1,3 +1,9 @@
+
+
+<br/>  
+<div align="center"><img src="https://share.creavite.co/NYoDHry0NK8FV8rB.gif" /></div>  
+<br/> 
+
 <h1 align="center">Hola 👋, Mi nombre es Jorge Luis Mamani Mendoza</h1>
 <h4 align="center">Data Engineer Jr. | Buiness Intelligence | Data Analyst</h4>
 
