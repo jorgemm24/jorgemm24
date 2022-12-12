@@ -10,10 +10,10 @@ Actualmente cursando programas Cloud como Ingeniería de datos AWS, Ingeniería 
 <div align="center"><img src="https://todobi.com/content/images/2020/03/working_flow.gif" /></div>  
 <br/>  
 
-- 🔭 Actualmente trabajo en Bio sac  
+- 🔭 Actualmente trabajo de manera remota
   
 
-- 🌱Actualmente estudiando AWS, python, pyspark, databricks, noSQL, linux, git  
+- 🌱Mejorando en AWS, python, pyspark, databricks, noSQL, linux, git  
   
 
 - ❓ Puedes preguntarme sobre proyectos BI  
