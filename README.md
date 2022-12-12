@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, Me llamo Jorge Luis Mamani Mendoza</h1>
-<h4 align="center">
+<h3 align="center">
 Profesional con +3 años de experiencia. Me caracterizo por ser una persona muy responsable tanto en el ámbito laboral como personal. He trabajado en proyectos de Business Intelligence, desde la obtención de los requerimientos del cliente, procesos ETL, presentación de informes y dashboard. Constantemente estoy en proceso de capacitación para estar a la par de nuevas tecnologías y así lograr los objetivos de la empresa.
 
 Actualmente cursando programas Cloud como Ingeniería de datos AWS, Ingeniería de datos Azure, Ingeniería de datos GCP, Big Data, Python, Spark, PySpark, Databricks, NoSQL.
-</h4>
+</h3>
 
 
 <br/>  
