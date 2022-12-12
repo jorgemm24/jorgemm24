@@ -38,6 +38,3 @@ Actualmente cursando programas Cloud como Ingeniería de datos AWS, Ingeniería 
   
    ## Mail
 📫 **ztejorge@hotmail.com**
-
-
-
