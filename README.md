@@ -1,5 +1,7 @@
 <h1 align="center">Hola 👋, Me llamo Jorge Luis Mamani Mendoza</h1>
-<h3 align="center">Soy un entusiasta de Ingeniería de Datos</h3>
+<h3 align="center">
+Profesional con +3 años de experiencia en proyectos de Data. Actualmente capacitandome en Ingeniería de Datos. Estudiando AWS, python, pyspark y Databricks
+</h3>
 
 - 🔭 Actualmente estoy trabajando en **BIO SAC**
 
