@@ -14,7 +14,7 @@ Actualmente cursando programas Cloud como Ingeniería de datos AWS, Ingeniería 
 - 🔥 Actualmente trabajo de manera remota
   
 
-- 📘Mejorando en AWS, python, pyspark, databricks, noSQL, linux, git  
+- 📘Mejorando en AWS, Python, PySpark, Databricks, NoSQL, Linux, Git  
   
 
 - 😎 Puedes preguntarme sobre proyectos BI  
