@@ -1,4 +1,3 @@
-
 <h1 align="center">Hola 👋, Mi nombre es Jorge Luis Mamani Mendoza</h1>
 <h4 align="center">Data Engineer Jr. | Buiness Intelligence | Data Analyst</h4>
 
@@ -19,16 +18,44 @@ Actualmente estudiando Ingeniería de datos AWS, Big Data, Python, Spark, PySpar
 
 - 😎 Los pequeños errores son la mejor forma de aprender.  
   
-## Skills
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  <a href="https://www.databricks.com/" target="_blank"><img style="margin: 10px" src="https://miro.medium.com/max/800/1*nPcdyVwgcuEZiEZiRqApug.jpeg" alt="PySpark" height="50" /></a>    <a href="https://www.databricks.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" alt="PySpark" height="40" /></a> 
-  <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="40" /></a> <a href="https://www.microsoft.com/es-es/microsoft-365/excel" target="_blank"><img style="margin: 10px" src="https://1000marcas.net/wp-content/uploads/2020/12/Microsoft-Excel-Logo.png" alt="Excel" height="40" /></a>  <a href="https://learn.microsoft.com/es-es/analysis-services/analysis-services-overview?view=asallproducts-allversions" target="_blank"><img style="margin: 10px" src="https://www.cdata.com/ui/img/logo-ssas.png" alt="SSAS" height="40" />
-  <a href="https://learn.microsoft.com/en-us/sql/integration-services/sql-server-integration-services?view=sql-server-ver16" target="_blank"><img style="margin: 10px" src="https://andriysetiawan.files.wordpress.com/2020/06/ssis.png?w=1280" alt="SSIS" height="40" />
-    <a href="https://jsonapi.org/" target="_blank"><img style="margin: 10px" src="https://react-etc.net/files/2016-10/screen-shot-2016-10-12-at-6.59.54.png" alt="API JSON" height="40" />  <a href="https://airflow.apache.org/" target="_blank"><img style="margin: 10px" src="https://airflow.apache.org/images/feature-image.png" alt="Airflow" height="40" />  <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker" height="40" />        
-        
-
+## Tecnologias
+ <div style="display: inline_block" align="center"><br>
+  <img align="center" alt="python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="pyspark" height="50" width="70" src="https://miro.medium.com/max/800/1*nPcdyVwgcuEZiEZiRqApug.jpeg">
+  <img align="center" alt="databricks" height="50" width="80" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png">
+  <img align="center" alt="pandas" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg">
+  <img align="center" alt="sqlalchemy" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg">
+  <img align="center" alt="AWS" height="55" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img align="center" alt="azure" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" />
+  <img align="center" alt="VScode" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+  <img align="center" alt="jupiter" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg">
+  <img align="center" alt="linux" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
+  <img align="center" alt="ubuntu" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg"/> 
+  <img align="center" alt="git" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /> 
+  <img align="center" alt="GitHub" height="40px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png"/>
+  
+  <img align="center" alt="sqlserver" height="40px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" />
+  <img align="center" alt="ssis" height="40px" src="https://static.javatpoint.com/tutorial/ssis/images/ssis-tutorial.jpg" />
+  <img align="center" alt="MySQL" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="mariadb" height="40px" width="85" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Mariadb-seal-browntext.svg/2560px-Mariadb-seal-browntext.svg.png" />
+  
+  <img align="center" alt="postgresql" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
+  <img align="center" alt="oracle" height="45px" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" />
+  <img align="center" alt="mongodb" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
+  <img align="center" alt="apijson" height="40" width="85" src="https://react-etc.net/files/2016-10/screen-shot-2016-10-12-at-6.59.54.png">
+  <img align="center" alt="fastapi" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original-wordmark.svg">
+  <img align="center" alt="docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
+  <img align="center" alt="airflow" height="40" width="89" src="https://airflow.apache.org/images/feature-image.png">
+  <img align="center" alt="powerBI" height="40px" src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png" />
+  <img align="center" alt="excel" height="40px" src="https://1000marcas.net/wp-content/uploads/2020/12/Microsoft-Excel-Logo.png" />
+  
   
 
-  </a> </p>
+  
+  ##
+  
+  <div> 
+
 
   ## Contactame
 <div align="center">
