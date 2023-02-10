@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Mi nombre es Jorge Luis Mamani Mendoza</h1>
-<h4 align="center">Data Engineer Jr. | Buiness Intelligence | Data Analyst</h4>
+<h4 align="center">Data Engineer Jr. | Buiness Intelligence </h4>
 
 Profesional con +3 años de experiencia, apasionado por los datos.
 
