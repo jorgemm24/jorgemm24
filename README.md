@@ -17,7 +17,17 @@ Actualmente estudiando Ingeniería de datos AWS, Big Data, Python, Spark, PySpar
   
 
 - 😎 Los pequeños errores son la mejor forma de aprender.  
-  
+## Proyectos personales
+
+| Proyecto | Link |
+| ------ | ------- |
+| Data Pipeline AWS_Spark | https://github.com/jorgemm24/Data_Pipeline_AWS_Spark |
+| Data Pipeline AWS Lambda | https://github.com/jorgemm24/Data_Pipeline_AWS_Lambda |
+| Data Pipeline MongoDB to MySQL | https://github.com/jorgemm24/Data_Pipeline_MongoDB_to_MySQL |
+| Data Pipeline with Airflow | https://github.com/jorgemm24/Data_Pipeline_with_Airflow |
+| Rest API export CSV | https://github.com/jorgemm24/Rest_API_export_CSV |
+
+
 ## Tecnologias
  <div style="display: inline_block" align="center"><br>
   <img align="center" alt="python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
