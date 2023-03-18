@@ -3,7 +3,7 @@
 
 Profesional con +3 años de experiencia, apasionado por los datos.
 
-Actualmente estudiando Ingeniería de datos AWS, Big Data, Python, Spark, PySpark, Databricks, NoSQL.
+Actualmente estudiando Ingeniería de datos Azure, AWS, Big Data, Python, Spark, PySpark, Scala, Databricks, NoSQL.
 
 
 <br/>  
@@ -13,7 +13,7 @@ Actualmente estudiando Ingeniería de datos AWS, Big Data, Python, Spark, PySpar
 - 🔥 Actualmente trabajo de manera remota
   
 
-- 📘Mejorando en AWS, Python, PySpark, Databricks, NoSQL, Linux, Git  
+- 📘Mejorando en Azure, AWS, Python, PySpark, Databricks, NoSQL, Linux, Git  
   
 
 - 😎 Los pequeños errores son la mejor forma de aprender.  
