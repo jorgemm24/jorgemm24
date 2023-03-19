@@ -21,7 +21,8 @@ Actualmente estudiando Ingeniería de datos Azure, AWS, Big Data, Python, Spark,
 
 | Proyecto | Link |
 | ------ | ------- |
-| Data Pipeline AWS Databricks Spark | https://github.com/jorgemm24/Data_Pipeline_AWS_Spark |
+| Data Pipeline Azure Databricks Spark (PySpark) | https://github.com/jorgemm24/Data_Pipeline_Azure_Databricks |
+| Data Pipeline AWS Databricks Spark  (PySpark) | https://github.com/jorgemm24/Data_Pipeline_AWS_Spark |
 | Data Pipeline AWS Lambda | https://github.com/jorgemm24/Data_Pipeline_AWS_Lambda |
 | Data Pipeline MongoDB to MySQL | https://github.com/jorgemm24/Data_Pipeline_MongoDB_to_MySQL |
 | Data Pipeline with Airflow | https://github.com/jorgemm24/Data_Pipeline_with_Airflow |
