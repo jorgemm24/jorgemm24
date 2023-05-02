@@ -26,7 +26,7 @@ Actualmente estudiando Ingeniería de datos Azure, AWS, Big Data, Python, Spark,
 | Data Pipeline AWS Lambda | https://github.com/jorgemm24/Data_Pipeline_AWS_Lambda |
 | Data Pipeline MongoDB to MySQL | https://github.com/jorgemm24/Data_Pipeline_MongoDB_to_MySQL |
 | Data Pipeline with Airflow | https://github.com/jorgemm24/Data_Pipeline_with_Airflow |
-| Data Pipeline Web Scrapin to PostgreSQL | https://github.com/jorgemm24/Data_Pipeline_WebScraping_to_PostgreSQL |
+| Data Pipeline Web Scraping to PostgreSQL | https://github.com/jorgemm24/Data_Pipeline_WebScraping_to_PostgreSQL |
 | Rest API export CSV | https://github.com/jorgemm24/Rest_API_export_CSV |
 
 
